@@ -1,6 +1,10 @@
-# Hi 
-## My name is Nam jae min
-## My email is njm739@gmail.com
+# Hi !! 😄
+#
+# Introdution 💬💬
+## Name: Nam jae min
+## Email: njm739@gmail.com
+## Age: 23
+## I'm learning at Yeungnam university 🌱
 <!--
 **njm0927/njm0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
