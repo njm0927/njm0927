@@ -2,7 +2,6 @@
 #
 # Introdution 💬💬
 ## Name: Nam jae min
-## Email: njm739@gmail.com
 ## Age: 24
 ## I'm learning at Yeungnam university 🌱
 <!--
