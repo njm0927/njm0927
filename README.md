@@ -3,7 +3,7 @@
 # Introdution 💬💬
 ## Name: Nam jae min
 ## Email: njm739@gmail.com
-## Age: 23
+## Age: 24
 ## I'm learning at Yeungnam university 🌱
 <!--
 **njm0927/njm0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
