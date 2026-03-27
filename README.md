@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hello%20EveryOne🦁%20I'm%20Jaemin&animation=scaleIn&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=Hello%20Everyone🦁%20I'm%20Jaemin&animation=scaleIn&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
